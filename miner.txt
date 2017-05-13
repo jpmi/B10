@@ -11,3 +11,4 @@ globalfan 90
 globalpowertune 20
 autoreboot true
 custompanel bminers
+globaldriver amdgpu
