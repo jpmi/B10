@@ -1,0 +1,14 @@
+#globalminer zcash-miner
+globalminer claymore
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 2b06cc0fe5179ebb9795bf97884c04ef90ac382d
+proxypool1 us2.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
+#globalcore 1070
+globalfan 90
+globalpowertune 20
+autoreboot true
+custompanel bminers
+globaldriver amdgpu
