@@ -10,5 +10,5 @@ proxypool2 us1.ethermine.org:4444
 globalfan 90
 globalpowertune 20
 autoreboot true
-custompanel bminers
+custompanel PTImine
 globaldriver amdgpu
