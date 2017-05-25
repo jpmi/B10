@@ -5,8 +5,8 @@ maxgputemp 97
 stratumproxy enabled
 proxywallet 0x6d678086e87f16e5a61569d68add0c6b6559ab73
 #proxywallet 0x6d678086e87f16e5a61569d68add0c6b6559ab73
-proxypool1 us2.ethermine.org:4444
-proxypool2 us1.ethermine.org:4444
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
 #globalcore 1070
 globalfan 90
 globalpowertune 20
