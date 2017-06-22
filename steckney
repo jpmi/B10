@@ -1,0 +1,14 @@
+#globalminer zcash-miner
+globalminer claymore
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0x6c3388273c6B2DAA63bD57Bfa722016828E97496
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-usa.ethosdistro.com:5001
+#globalcore 1070
+globalfan 90
+globalpowertune 20
+autoreboot true
+custompanel 4ab4f0
+globaldriver amdgpu
