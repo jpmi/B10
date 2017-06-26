@@ -11,4 +11,4 @@ globalfan 90
 globalpowertune 20
 autoreboot true
 custompanel 4ab4f0
-driver [miner6] fglrx
+globaldriver fglrx
