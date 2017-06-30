@@ -11,5 +11,5 @@ proxypool2 us2.ethermine.org:4444
 globalfan 90
 globalpowertune 20
 autoreboot true
-custompanel prtinc918600
+custompanel prti17918600
 globaldriver amdgpu
