@@ -1,5 +1,6 @@
 #globalminer zcash-miner
-globalminer claymore
+#globalminer claymore
+globalminer ethminer
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
