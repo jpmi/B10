@@ -13,3 +13,4 @@ globalpowertune 7
 autoreboot true
 custompanel prti17918600
 globaldriver amdgpu
+loc f648fa 00-01
