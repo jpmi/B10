@@ -9,7 +9,6 @@ proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 #globalcore 1070
 globalfan 90
-globalpowertune 20
 autoreboot true
 custompanel prti17918600
 #globalminer zcash-miner
