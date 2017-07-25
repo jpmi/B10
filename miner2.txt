@@ -14,3 +14,10 @@ autoreboot true
 custompanel prti17918600
 globaldriver amdgpu
 loc f648fa 00-01
+loc f648f5 00-02
+loc f648ec 00-03
+loc f648f3 00-04
+loc f450a9 00-05
+loc f64770 00-06
+loc f648FB 00-07
+loc f4508c 00-08
