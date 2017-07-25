@@ -12,21 +12,6 @@ globalfan 90
 globalpowertune 7
 autoreboot true
 custompanel prti17918600
-globaldriver amdgpu
-#globalminer zcash-miner
-globalminer claymore
-#globalminer sgminer-gm
-maxgputemp 97
-stratumproxy enabled
-proxywallet 0x966c32aD0190B74dc561db93EcAf3f439B7E1A77
-#proxywallet 0x6d678086e87f16e5a61569d68add0c6b6559ab73
-proxypool1 us1.ethermine.org:4444
-proxypool2 us2.ethermine.org:4444
-#globalcore 1070
-globalfan 90
-globalpowertune 20
-autoreboot true
-custompanel prti17918600
 loc f648fa 000-01
 loc f648f5 000-02
 loc f648ec 000-03
@@ -74,5 +59,5 @@ loc
 loc 489668 003-06
 loc 
 loc f6479b 003-08
-loc
+loc 488921 003-09
 loc
