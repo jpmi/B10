@@ -12,3 +12,19 @@ globalfan 90
 globalpowertune 20
 autoreboot true
 custompanel prti17918600
+loc f648fa 000-01
+loc f648f5 000-02
+loc f648ec 000-03
+loc f648f3 000-04
+loc f450a9 000-05
+loc f64770 000-06
+loc f648FB 000-07
+loc f4508c 000-08
+loc 9319dc 000-09
+loc f450c0 000-10
+loc 0dc762 000-11
+loc 00372d 000-12
+loc 003873 000-13
+loc F45CD3 000-14
+loc f45baf 000-15
+loc f45be4 000-16
