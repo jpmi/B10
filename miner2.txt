@@ -13,11 +13,11 @@ globalpowertune 7
 autoreboot true
 custompanel prti17918600
 globaldriver amdgpu
-loc f648fa 17-FR-000-01
-loc f648f5 17-FR-000-02
-loc f648ec 17-FR-000-03
-loc f648f3 17-FR-000-04
-loc f450a9 17-FR-000-05
-loc f64770 17-FR-000-06
-loc f648FB 17-FR-000-07
-loc f4508c 17-FR-000-08
+loc f648fa 000-01
+loc f648f5 000-02
+loc f648ec 000-03
+loc f648f3 000-04
+loc f450a9 000-05
+loc f64770 000-06
+loc f648FB 000-07
+loc f4508c 000-08
