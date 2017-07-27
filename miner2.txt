@@ -13,7 +13,6 @@ globalfan 90
 globalpowertune 60
 autoreboot true
 custompanel prti17918600
-loc f648f5 000-02
 loc f648ec 000-03
 loc f648f3 000-04
 loc f450a9 000-05
@@ -40,7 +39,7 @@ loc 489903 001-09
 loc 489f11 001-10
 loc 489909 001-11
 loc 489a01 001-12
-loc 48965c 001-13
+loc 930513 001-13
 loc 48965c 001-14
 loc 930513 001-15
 loc 
