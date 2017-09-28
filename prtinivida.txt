@@ -7,8 +7,8 @@ stratumproxy enabled
 proxywallet t1N74buU4u34nahQZsVABZAj4SLBK3ZP21z
 #proxywallet 0x966c32aD0190B74dc561db93EcAf3f439B7E1A77
 #proxywallet 0x6d678086e87f16e5a61569d68add0c6b6559ab73
-proxypool1 zec-us-east1.nanopool.org
-#proxypool2 us2.ethermine.org:4444
+proxypool1 zec-us-east1.nanopool.org:6666
+proxypool2 zec-us-west1.nanopool.org:6666
 #globalcore 1070
 globalfan 90
 autoreboot true
