@@ -6,8 +6,10 @@ maxgputemp 97
 stratumproxy enabled
 #proxywallet t1N74buU4u34nahQZsVABZAj4SLBK3ZP21z
 proxywallet 0x966C32aD0190B74dc561db93EcAf3f439B7E1A77
-proxypool1 eth-us-east1.nanopool.org:9999
-proxypool2 eth-us-west1.nanopool.org:9999
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
+#proxypool1 eth-us-east1.nanopool.org:9999
+#proxypool2 eth-us-west1.nanopool.org:9999
 #proxypool1 zec-us-east1.nanopool.org:6666
 #proxypool2 zec-us-west1.nanopool.org:6666
 #globalcore 1070
